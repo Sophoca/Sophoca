@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=SungBeen%20Hong&fontSize=50&animation=fadeIn&fontAlignY=38&theme=tokyonight)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SungBeen%20Hong&fontSize=40&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
 
-<h3 align="center">🌱 About Me 🌱</h3>
+<h3 align="center" style="margin-top:0">🌱 About Me 🌱</h3>
 <p align="center">Junior Backend Engineer</p>
 
 <p align="center">
   <a href="mailto:tjdqls1668@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjdqls1668@naver.com"/></a>&nbsp
   <!-- <a href="https://cerulean-icicle-a17.notion.site/Sophoca-fe1882867a7243b18343a93b28a0a64e"><img src="https://img.shields.io/badge/Resume-087CFA?style=flat-square&logo=Notion&logoColor=white&link=https://cerulean-icicle-a17.notion.site/Sophoca-fe1882867a7243b18343a93b28a0a64e"/></a>&nbsp -->
   <a href="https://velog.io/@tjdqls1668"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@tjdqls1668"/></a>&nbsp
-  <a href="https://github.com/sophoca"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"></a>&nbsp
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsophoca&count_bg=%233DA4C8&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true"/></a>&nbsp
 </p>
-<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -38,6 +38,4 @@
 
 <br>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsophoca&count_bg=%233DA4C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
