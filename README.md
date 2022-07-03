@@ -1,7 +1,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SungBeen%20Hong&fontSize=40&animation=fadeIn&fontAlignY=35&theme=tokyonight" /> -->
 
 <h3 align="center" style="margin-top:0">🌱 About Me 🌱</h3>
-<p align="center">Junior Backend Engineer</p>
+<!-- <p align="center">Junior Backend Engineer</p> -->
 
 <p align="center">
   <a href="mailto:tjdqls1668@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjdqls1668@naver.com"/></a>&nbsp
