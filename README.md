@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB">&nbsp
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=WebGL&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=VISUALSTUDIOCODE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-FC801D?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
