@@ -3,7 +3,7 @@
 <h3 align="center" style="margin-top:0">🌱 About Me 🌱</h3>
 <p align="center">Click badge to check it</p>
 <p align="center">
-  <a href="https://cerulean-icicle-a17.notion.site/Sophoca-fe1882867a7243b18343a93b28a0a64e" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Resume-087CFA?style=flat-square&logo=Notion&logoColor=white&link=https://cerulean-icicle-a17.notion.site/Sophoca-fe1882867a7243b18343a93b28a0a64e"/></a>&nbsp
+  <a href="https://cerulean-icicle-a17.notion.site/335936817e404e7cbe08c7e21d7fa03b" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Resume-087CFA?style=flat-square&logo=Notion&logoColor=white&link=https://cerulean-icicle-a17.notion.site/335936817e404e7cbe08c7e21d7fa03b"/></a>&nbsp
   <a href="https://velog.io/@tjdqls1668" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@tjdqls1668"/></a>&nbsp
   <a href="https://github.com/sophoca" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white&link=https://github.com/sophoca"/></a>&nbsp
   <a href="mailto:tjdqls1668@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjdqls1668@naver.com"/></a>&nbsp
