@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
-<!--   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp  -->
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp
@@ -29,10 +28,12 @@
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB">&nbsp
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=WebGL&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=VISUALSTUDIOCODE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-FC801D?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=PyCharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/DataGrip-AF1DF5?style=flat-square&logo=DataGrip&logoColor=white"/>
+</p>
+<p align="center">
+  <a href="https://www.credly.com/badges/bda9f396-c7d0-4d00-91b9-70972ce3887c"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
 </p>
